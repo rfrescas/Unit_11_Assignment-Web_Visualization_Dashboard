@@ -73,7 +73,7 @@ main {
 
 /* making our even rows a different color for our data page */
 tr:nth-child(even) {
-    background-color: #d3d3d3;
+    background-color: #ffffff;
 }
 
 /* Two images side by side, using 50% (two rows as well) */
